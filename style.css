@@ -9,12 +9,12 @@
         width: 100vw;
         height: 100vh;
         background-image: url("Gallery/Background_1.jpg");
-        /*background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),*/
+        /*background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.1)),*/
         /*        url("Gallery/Coming_Soon.png");*/
         background-position: center;
         background-size: cover;
-        /*color: #efefef !important;*/
-        /*background-attachment: fixed;*/
+        color: #000000 !important;
+        background-attachment: fixed;
         padding: 1% 10%;
         position: relative;
      }
@@ -64,6 +64,12 @@
         text-transform: capitalize;
     }
 
+    .details button img {
+        margin-left: 20px;
+        width: 90px;
+        margin-right: 20px;
+    }
+
     #question {
         text-transform: capitalize;
         background: whitesmoke;
@@ -75,11 +81,6 @@
 
     bi {
         background: blue;
-    }
-
-    .details button img {
-        margin-left: 20px;
-        width: 90px;
     }
 
     .timer {
