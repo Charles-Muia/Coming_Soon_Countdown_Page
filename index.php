@@ -51,8 +51,6 @@
                     </div>
                 </div>
 
-            <br><br>
-            <hr class="line">
             <img src="Gallery/launch.png" class="lift_off" alt="">
         </div>
 
