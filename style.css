@@ -172,3 +172,8 @@
         left: 50%;
         margin-left: 20px;
     }
+
+    .line {
+        width: 80%;
+        background: red;
+    }

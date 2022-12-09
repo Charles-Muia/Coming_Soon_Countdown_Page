@@ -21,7 +21,7 @@
                             <button type="button"> <img src="Gallery/Blood_Group.png" alt="">
                                 <span id="question"> &nbsp do you know your Blood group <i class="bi bi-question-circle-fill"> &nbsp </i> </span>
                             </button>
-
+                    <hr>
                     <div class="timer">
                         <div>
                             <p id="days"> 00 </p>
@@ -48,9 +48,11 @@
                             <p id="seconds"> 00 </p>
                             <span id="type"> Seconds </span>
                         </div>
-
                     </div>
                 </div>
+
+            <br><br>
+            <hr class="line">
             <img src="Gallery/launch.png" class="lift_off" alt="">
         </div>
 
